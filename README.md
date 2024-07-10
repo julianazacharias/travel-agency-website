@@ -7,6 +7,7 @@
     <a><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" target="_blank">
     <a><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" target="_blank">
    </div>
+   <br/>
 
 This project is a Travel Agency Website built with Vite.
 
@@ -23,24 +24,24 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-    1. Clone the repository:
+ 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/your-username/travel-agency-website.git
-    ```
+ ```bash
+ git clone https://github.com/your-username/travel-agency-website.git
+ ```
 
-    2. Navigate into the project directory:
+ 2. Navigate into the project directory:
 
-    ```bash
-    cd travel-agency-website
-    ```
+ ```bash
+ cd travel-agency-website
+ ```
 
-    3. Install dependencies::
+ 3. Install dependencies::
 
-    ```bash
-    yarn install
+ ```bash
+ yarn install
 
-    ```
+ ```
 
 ### Running the Development Server
 
