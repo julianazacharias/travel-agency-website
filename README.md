@@ -1,5 +1,7 @@
 # Travel Agency Website
 
+[Link to this project](https://travel-agency-website-drwmpbkw9-julianas-projects-4a14357a.vercel.app/)
+
 ## Technologies used:
 
    <div>
@@ -24,24 +26,24 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
- 1. Clone the repository:
+1.  Clone the repository:
 
- ```bash
- git clone https://github.com/your-username/travel-agency-website.git
- ```
+```bash
+git clone https://github.com/your-username/travel-agency-website.git
+```
 
- 2. Navigate into the project directory:
+2.  Navigate into the project directory:
 
- ```bash
- cd travel-agency-website
- ```
+```bash
+cd travel-agency-website
+```
 
- 3. Install dependencies::
+3.  Install dependencies::
 
- ```bash
- yarn install
+```bash
+yarn install
 
- ```
+```
 
 ### Running the Development Server
 
