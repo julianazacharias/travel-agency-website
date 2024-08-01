@@ -1,6 +1,6 @@
 # Travel Agency Website
 
-[Link to this project](https://travel-agency-website-drwmpbkw9-julianas-projects-4a14357a.vercel.app/)
+[Link to this project](https://travel-agency-website-black.vercel.app/)
 
 ## Technologies used:
 
